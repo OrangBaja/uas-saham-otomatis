@@ -1,0 +1,65 @@
+name: Daily Stock Automation
+
+# Trigger (Pemicu)
+on:
+  # 1. Jadwal Otomatis: Senin-Jumat jam 13:00 UTC (20:00 WIB)
+  schedule:
+    - cron: '0 13 * * 1-5'
+  
+  # 2. Trigger Manual: Agar kamu bisa klik tombol "Run" saat presentasi UAS
+  workflow_dispatch:
+
+# Izin agar Bot bisa melakukan 'git push' ke repo kamu
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest # Menggunakan server Linux Ubuntu
+
+    steps:
+      # Langkah 1: Download kode dari repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Langkah 2: Siapkan Python 3.x
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip' # Cache library biar run berikutnya lebih cepat
+
+      # Langkah 3: Install library
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # Langkah 4: Jalankan Scraper (Extract)
+      # Pastikan nama file ini SAMA dengan file python kamu (scraping.py)
+      - name: Run Scraper
+        run: python scraping.py
+
+      # Langkah 5: Jalankan Compiler (Transform)
+      - name: Run Compiler
+        run: python compile.py
+
+      # Langkah 6: Commit & Push hasilnya balik ke GitHub
+      - name: Commit and Push Changes
+        run: |
+          # Konfigurasi identitas bot
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Tambahkan semua perubahan (Data baru & Log file)
+          git add datasets/ *.log
+          
+          # Cek: Apakah ada file yang berubah?
+          if git diff --staged --quiet; then
+            echo "⚠️ Tidak ada perubahan data hari ini (Mungkin pasar libur)."
+            exit 0
+          fi
+          
+          # Jika ada perubahan, commit dan push
+          git commit -m "Auto-update: Data Saham $(date +'%Y-%m-%d')"
+          git push

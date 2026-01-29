@@ -1,0 +1,355 @@
+[2026-01-29 19:29:47,490] INFO: Memulai Mining Data. Mode Full: False
+[2026-01-29 19:29:48,688] ERROR: Gagal download AHAP.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AHAP.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257787&period2=1769689787
+[2026-01-29 19:29:48,689] INFO: [AHAP] Gagal mengambil data.
+[2026-01-29 19:29:48,709] ERROR: Gagal download AGRO.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AGRO.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257787&period2=1769689787
+[2026-01-29 19:29:48,711] INFO: [AGRO] Gagal mengambil data.
+[2026-01-29 19:29:48,979] INFO: [AGRS] Selesai. +4 data baru.
+[2026-01-29 19:29:49,159] ERROR: Gagal download ADMF.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ADMF.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257787&period2=1769689787
+[2026-01-29 19:29:49,160] INFO: [ADMF] Gagal mengambil data.
+[2026-01-29 19:29:49,318] ERROR: Gagal download ABDA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ABDA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257787&period2=1769689787
+[2026-01-29 19:29:49,320] INFO: [ABDA] Gagal mengambil data.
+[2026-01-29 19:29:49,997] ERROR: Gagal download APIC.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/APIC.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257788&period2=1769689788
+[2026-01-29 19:29:49,998] INFO: [APIC] Gagal mengambil data.
+[2026-01-29 19:29:50,221] ERROR: Gagal download AMAG.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AMAG.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257788&period2=1769689788
+[2026-01-29 19:29:50,222] INFO: [AMAG] Gagal mengambil data.
+[2026-01-29 19:29:50,338] ERROR: Gagal download ASDM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ASDM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257789&period2=1769689789
+[2026-01-29 19:29:50,340] INFO: [ASDM] Gagal mengambil data.
+[2026-01-29 19:29:50,604] ERROR: Gagal download ARTO.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ARTO.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257788&period2=1769689788
+[2026-01-29 19:29:50,605] INFO: [ARTO] Gagal mengambil data.
+[2026-01-29 19:29:50,684] ERROR: Gagal download ASBI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ASBI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257789&period2=1769689789
+[2026-01-29 19:29:50,687] INFO: [ASBI] Gagal mengambil data.
+[2026-01-29 19:29:51,033] ERROR: Gagal download ASJT.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ASJT.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257789&period2=1769689789
+[2026-01-29 19:29:51,034] INFO: [ASJT] Gagal mengambil data.
+[2026-01-29 19:29:52,459] ERROR: Gagal download ASRM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ASRM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257790&period2=1769689790
+[2026-01-29 19:29:52,460] INFO: [ASRM] Gagal mengambil data.
+[2026-01-29 19:29:52,480] INFO: [BABP] Selesai. +4 data baru.
+[2026-01-29 19:29:52,577] INFO: [ASMI] Selesai. +4 data baru.
+[2026-01-29 19:29:52,904] ERROR: Gagal download BBCA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBCA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257791&period2=1769689791
+[2026-01-29 19:29:52,905] INFO: [BBCA] Gagal mengambil data.
+[2026-01-29 19:29:52,929] INFO: [BACA] Selesai. +4 data baru.
+[2026-01-29 19:29:53,837] ERROR: Gagal download BBLD.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBLD.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257792&period2=1769689792
+[2026-01-29 19:29:53,839] INFO: [BBLD] Gagal mengambil data.
+[2026-01-29 19:29:53,868] INFO: [BBKP] Selesai. +4 data baru.
+[2026-01-29 19:29:54,460] ERROR: Gagal download BBMD.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBMD.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257792&period2=1769689792
+[2026-01-29 19:29:54,462] INFO: [BBMD] Gagal mengambil data.
+[2026-01-29 19:29:54,705] INFO: [BBNI] Selesai. +4 data baru.
+[2026-01-29 19:29:55,093] INFO: [BBRI] Selesai. +4 data baru.
+[2026-01-29 19:29:55,298] INFO: [BBHI] Selesai. +4 data baru.
+[2026-01-29 19:29:55,695] ERROR: Gagal download BBYB.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBYB.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257794&period2=1769689794
+[2026-01-29 19:29:55,697] INFO: [BBYB] Gagal mengambil data.
+[2026-01-29 19:29:55,769] ERROR: Gagal download BBTN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBTN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257793&period2=1769689793
+[2026-01-29 19:29:55,771] INFO: [BBTN] Gagal mengambil data.
+[2026-01-29 19:29:56,040] ERROR: Gagal download BCAP.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BCAP.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257794&period2=1769689794
+[2026-01-29 19:29:56,042] INFO: [BCAP] Gagal mengambil data.
+[2026-01-29 19:29:56,460] ERROR: Gagal download BCIC.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BCIC.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257795&period2=1769689795
+[2026-01-29 19:29:56,462] INFO: [BCIC] Gagal mengambil data.
+[2026-01-29 19:29:56,827] ERROR: Gagal download BDMN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BDMN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257795&period2=1769689795
+[2026-01-29 19:29:56,829] INFO: [BDMN] Gagal mengambil data.
+[2026-01-29 19:29:56,906] INFO: [BEKS] Selesai. +4 data baru.
+[2026-01-29 19:29:57,733] ERROR: Gagal download BGTG.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BGTG.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257796&period2=1769689796
+[2026-01-29 19:29:57,734] INFO: [BGTG] Gagal mengambil data.
+[2026-01-29 19:29:57,761] INFO: [BFIN] Selesai. +4 data baru.
+[2026-01-29 19:29:58,051] INFO: [BJTM] Selesai. +4 data baru.
+[2026-01-29 19:29:58,331] INFO: [BJBR] Selesai. +4 data baru.
+[2026-01-29 19:29:58,658] ERROR: Gagal download BINA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BINA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257796&period2=1769689796
+[2026-01-29 19:29:58,660] INFO: [BINA] Gagal mengambil data.
+[2026-01-29 19:29:59,051] ERROR: Gagal download BMAS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BMAS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257797&period2=1769689797
+[2026-01-29 19:29:59,053] INFO: [BMAS] Gagal mengambil data.
+[2026-01-29 19:29:59,285] ERROR: Gagal download BMRI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BMRI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257798&period2=1769689798
+[2026-01-29 19:29:59,286] INFO: [BMRI] Gagal mengambil data.
+[2026-01-29 19:29:59,607] ERROR: Gagal download BNBA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BNBA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257798&period2=1769689798
+[2026-01-29 19:29:59,608] INFO: [BNBA] Gagal mengambil data.
+[2026-01-29 19:29:59,738] INFO: [BKSW] Selesai. +4 data baru.
+[2026-01-29 19:29:59,925] ERROR: Gagal download BNGA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BNGA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257798&period2=1769689798
+[2026-01-29 19:29:59,927] INFO: [BNGA] Gagal mengambil data.
+[2026-01-29 19:30:00,481] INFO: [BNII] Selesai. +4 data baru.
+[2026-01-29 19:30:00,730] ERROR: Gagal download BNLI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BNLI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257799&period2=1769689799
+[2026-01-29 19:30:00,732] INFO: [BNLI] Gagal mengambil data.
+[2026-01-29 19:30:01,244] ERROR: Gagal download BPFI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BPFI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257799&period2=1769689799
+[2026-01-29 19:30:01,245] INFO: [BPFI] Gagal mengambil data.
+[2026-01-29 19:30:01,553] ERROR: Gagal download BPII.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BPII.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257799&period2=1769689799
+[2026-01-29 19:30:01,554] INFO: [BPII] Gagal mengambil data.
+[2026-01-29 19:30:01,588] ERROR: Gagal download BSWD.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BSWD.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257800&period2=1769689800
+[2026-01-29 19:30:01,590] INFO: [BSWD] Gagal mengambil data.
+[2026-01-29 19:30:01,701] ERROR: Gagal download BSIM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BSIM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257799&period2=1769689799
+[2026-01-29 19:30:01,703] INFO: [BSIM] Gagal mengambil data.
+[2026-01-29 19:30:02,182] ERROR: Gagal download BTPN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BTPN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257800&period2=1769689800
+[2026-01-29 19:30:02,184] INFO: [BTPN] Gagal mengambil data.
+[2026-01-29 19:30:02,728] ERROR: Gagal download BVIC.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BVIC.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257801&period2=1769689801
+[2026-01-29 19:30:02,730] INFO: [BVIC] Gagal mengambil data.
+[2026-01-29 19:30:03,217] ERROR: Gagal download DNAR.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/DNAR.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257801&period2=1769689801
+[2026-01-29 19:30:03,220] INFO: [DNAR] Gagal mengambil data.
+[2026-01-29 19:30:03,306] INFO: [CFIN] Selesai. +4 data baru.
+[2026-01-29 19:30:03,607] ERROR: Gagal download DEFI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/DEFI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257801&period2=1769689801
+[2026-01-29 19:30:03,609] INFO: [DEFI] Gagal mengambil data.
+[2026-01-29 19:30:03,716] INFO: [DNET] Selesai. +4 data baru.
+[2026-01-29 19:30:04,520] ERROR: Gagal download GSMF.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/GSMF.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257802&period2=1769689802
+[2026-01-29 19:30:04,522] INFO: [GSMF] Gagal mengambil data.
+[2026-01-29 19:30:05,052] ERROR: Gagal download HDFA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/HDFA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257803&period2=1769689803
+[2026-01-29 19:30:05,054] INFO: [HDFA] Gagal mengambil data.
+[2026-01-29 19:30:05,189] ERROR: Gagal download LPGI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/LPGI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257803&period2=1769689803
+[2026-01-29 19:30:05,191] INFO: [LPGI] Gagal mengambil data.
+[2026-01-29 19:30:05,318] ERROR: Gagal download INPC.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/INPC.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257803&period2=1769689803
+[2026-01-29 19:30:05,320] INFO: [INPC] Gagal mengambil data.
+[2026-01-29 19:30:06,298] INFO: [LPPS] Selesai. +4 data baru.
+[2026-01-29 19:30:06,926] ERROR: Gagal download MFIN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MFIN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257805&period2=1769689805
+[2026-01-29 19:30:06,928] INFO: [MFIN] Gagal mengambil data.
+[2026-01-29 19:30:06,969] INFO: [MCOR] Selesai. +4 data baru.
+[2026-01-29 19:30:06,989] INFO: [MAYA] Selesai. +4 data baru.
+[2026-01-29 19:30:07,024] ERROR: Gagal download MEGA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MEGA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257805&period2=1769689805
+[2026-01-29 19:30:07,027] INFO: [MEGA] Gagal mengambil data.
+[2026-01-29 19:30:08,387] ERROR: Gagal download NISP.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/NISP.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257806&period2=1769689806
+[2026-01-29 19:30:08,389] ERROR: Gagal download PADI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PADI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257807&period2=1769689807
+[2026-01-29 19:30:08,390] ERROR: Gagal download MREI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MREI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257806&period2=1769689806
+[2026-01-29 19:30:08,392] INFO: [NISP] Gagal mengambil data.
+[2026-01-29 19:30:08,396] INFO: [PADI] Gagal mengambil data.
+[2026-01-29 19:30:08,396] INFO: [MREI] Gagal mengambil data.
+[2026-01-29 19:30:08,787] ERROR: Gagal download NOBU.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/NOBU.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257806&period2=1769689806
+[2026-01-29 19:30:08,788] INFO: [NOBU] Gagal mengambil data.
+[2026-01-29 19:30:09,388] INFO: [OCAP] Selesai. +3 data baru.
+[2026-01-29 19:30:09,661] ERROR: Gagal download PALM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PALM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257808&period2=1769689808
+[2026-01-29 19:30:09,663] INFO: [PALM] Gagal mengambil data.
+[2026-01-29 19:30:09,679] INFO: [PANS] Selesai. +4 data baru.
+[2026-01-29 19:30:10,192] INFO: [PLAS] Selesai. +3 data baru.
+[2026-01-29 19:30:10,346] ERROR: Gagal download PEGE.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PEGE.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257808&period2=1769689808
+[2026-01-29 19:30:10,348] INFO: [PEGE] Gagal mengambil data.
+[2026-01-29 19:30:10,899] ERROR: Gagal download PNBS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PNBS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257809&period2=1769689809
+[2026-01-29 19:30:10,901] INFO: [PNBS] Gagal mengambil data.
+[2026-01-29 19:30:11,088] INFO: [PNBN] Selesai. +4 data baru.
+[2026-01-29 19:30:11,347] ERROR: Gagal download PNLF.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PNLF.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257810&period2=1769689810
+[2026-01-29 19:30:11,349] INFO: [PNLF] Gagal mengambil data.
+[2026-01-29 19:30:11,669] INFO: [PNIN] Selesai. +4 data baru.
+[2026-01-29 19:30:12,141] ERROR: Gagal download RELI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/RELI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257810&period2=1769689810
+[2026-01-29 19:30:12,142] INFO: [RELI] Gagal mengambil data.
+[2026-01-29 19:30:12,700] ERROR: Gagal download POOL.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/POOL.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257810&period2=1769689810
+[2026-01-29 19:30:12,702] INFO: [POOL] Gagal mengambil data.
+[2026-01-29 19:30:12,838] ERROR: Gagal download SDRA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/SDRA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257811&period2=1769689811
+[2026-01-29 19:30:12,839] INFO: [SDRA] Gagal mengambil data.
+[2026-01-29 19:30:12,982] INFO: [SMMA] Selesai. +4 data baru.
+[2026-01-29 19:30:13,545] ERROR: Gagal download SRTG.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/SRTG.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257811&period2=1769689811
+[2026-01-29 19:30:13,547] INFO: [SRTG] Gagal mengambil data.
+[2026-01-29 19:30:13,911] ERROR: Gagal download TIFA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/TIFA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257812&period2=1769689812
+[2026-01-29 19:30:13,912] INFO: [TIFA] Gagal mengambil data.
+[2026-01-29 19:30:14,008] INFO: [STAR] Selesai. +3 data baru.
+[2026-01-29 19:30:14,262] ERROR: Gagal download TRIM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/TRIM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257812&period2=1769689812
+[2026-01-29 19:30:14,264] INFO: [TRIM] Gagal mengambil data.
+[2026-01-29 19:30:14,552] INFO: [TRUS] Selesai. +4 data baru.
+[2026-01-29 19:30:15,074] INFO: [VICO] Selesai. +4 data baru.
+[2026-01-29 19:30:15,630] ERROR: Gagal download WOMF.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/WOMF.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257814&period2=1769689814
+[2026-01-29 19:30:15,631] INFO: [WOMF] Gagal mengambil data.
+[2026-01-29 19:30:15,673] ERROR: Gagal download VRNA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/VRNA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257814&period2=1769689814
+[2026-01-29 19:30:15,675] INFO: [VRNA] Gagal mengambil data.
+[2026-01-29 19:30:15,862] ERROR: Gagal download YULE.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/YULE.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257814&period2=1769689814
+[2026-01-29 19:30:15,864] INFO: [YULE] Gagal mengambil data.
+[2026-01-29 19:30:15,885] ERROR: Gagal download VINS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/VINS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257813&period2=1769689813
+[2026-01-29 19:30:15,887] INFO: [VINS] Gagal mengambil data.
+[2026-01-29 19:30:16,432] ERROR: Gagal download CASA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/CASA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257815&period2=1769689815
+[2026-01-29 19:30:16,434] INFO: [CASA] Gagal mengambil data.
+[2026-01-29 19:30:16,961] ERROR: Gagal download BRIS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BRIS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257815&period2=1769689815
+[2026-01-29 19:30:16,964] INFO: [BRIS] Gagal mengambil data.
+[2026-01-29 19:30:17,115] INFO: [MTWI] Selesai. +4 data baru.
+[2026-01-29 19:30:17,678] ERROR: Gagal download NICK.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/NICK.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257815&period2=1769689815
+[2026-01-29 19:30:17,680] INFO: [NICK] Gagal mengambil data.
+[2026-01-29 19:30:17,711] ERROR: Gagal download BTPS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BTPS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257816&period2=1769689816
+[2026-01-29 19:30:17,714] INFO: [BTPS] Gagal mengambil data.
+[2026-01-29 19:30:17,782] ERROR: Gagal download JMAS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/JMAS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257815&period2=1769689815
+[2026-01-29 19:30:17,784] INFO: [JMAS] Gagal mengambil data.
+[2026-01-29 19:30:18,511] ERROR: Gagal download TUGU.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/TUGU.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257816&period2=1769689816
+[2026-01-29 19:30:18,513] INFO: [TUGU] Gagal mengambil data.
+[2026-01-29 19:30:18,884] ERROR: Gagal download POLA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/POLA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257817&period2=1769689817
+[2026-01-29 19:30:18,886] INFO: [POLA] Gagal mengambil data.
+[2026-01-29 19:30:18,904] ERROR: Gagal download LIFE.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/LIFE.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257817&period2=1769689817
+[2026-01-29 19:30:18,906] INFO: [LIFE] Gagal mengambil data.
+[2026-01-29 19:30:19,203] INFO: [SFAN] Selesai. +4 data baru.
+[2026-01-29 19:30:19,661] ERROR: Gagal download FUJI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/FUJI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257817&period2=1769689817
+[2026-01-29 19:30:19,664] INFO: [FUJI] Gagal mengambil data.
+[2026-01-29 19:30:20,307] ERROR: Gagal download AMAR.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AMAR.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257818&period2=1769689818
+[2026-01-29 19:30:20,309] INFO: [AMAR] Gagal mengambil data.
+[2026-01-29 19:30:20,347] INFO: [AMOR] Selesai. +4 data baru.
+[2026-01-29 19:30:20,823] ERROR: Gagal download BHAT.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BHAT.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257818&period2=1769689818
+[2026-01-29 19:30:20,825] INFO: [BHAT] Gagal mengambil data.
+[2026-01-29 19:30:20,891] ERROR: Gagal download BANK.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BANK.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257819&period2=1769689819
+[2026-01-29 19:30:20,893] INFO: [BANK] Gagal mengambil data.
+[2026-01-29 19:30:20,977] ERROR: Gagal download BBSI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBSI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257819&period2=1769689819
+[2026-01-29 19:30:20,979] INFO: [BBSI] Gagal mengambil data.
+[2026-01-29 19:30:21,852] ERROR: Gagal download VTNY.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/VTNY.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257820&period2=1769689820
+[2026-01-29 19:30:21,853] INFO: [VTNY] Gagal mengambil data.
+[2026-01-29 19:30:21,855] ERROR: Gagal download MASB.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MASB.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257820&period2=1769689820
+[2026-01-29 19:30:21,857] INFO: [MASB] Gagal mengambil data.
+[2026-01-29 19:30:22,968] INFO: [COIN] Selesai. +4 data baru.
+[2026-01-29 19:30:22,970] ERROR: Gagal download YOII.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/YOII.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257820&period2=1769689820
+[2026-01-29 19:30:22,973] INFO: [YOII] Gagal mengambil data.
+[2026-01-29 19:33:13,693] INFO: Memulai Mining Data. Mode Full: False
+[2026-01-29 19:33:14,977] ERROR: Gagal download ABDA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ABDA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257993&period2=1769689993
+[2026-01-29 19:33:14,979] INFO: [ABDA] Gagal mengambil data.
+[2026-01-29 19:33:15,199] ERROR: Gagal download AGRO.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AGRO.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257993&period2=1769689993
+[2026-01-29 19:33:15,201] INFO: [AGRO] Gagal mengambil data.
+[2026-01-29 19:33:15,413] INFO: [AGRS] Selesai. +0 data baru.
+[2026-01-29 19:33:15,453] ERROR: Gagal download AHAP.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AHAP.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257993&period2=1769689993
+[2026-01-29 19:33:15,455] INFO: [AHAP] Gagal mengambil data.
+[2026-01-29 19:33:15,520] INFO: [ADMF] Selesai. +4 data baru.
+[2026-01-29 19:33:17,020] INFO: [ASBI] Selesai. +4 data baru.
+[2026-01-29 19:33:17,062] ERROR: Gagal download AMAG.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AMAG.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257994&period2=1769689994
+[2026-01-29 19:33:17,065] INFO: [AMAG] Gagal mengambil data.
+[2026-01-29 19:33:17,189] ERROR: Gagal download ARTO.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ARTO.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257995&period2=1769689995
+[2026-01-29 19:33:17,191] INFO: [ARTO] Gagal mengambil data.
+[2026-01-29 19:33:17,231] ERROR: Gagal download ASDM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ASDM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257995&period2=1769689995
+[2026-01-29 19:33:17,233] INFO: [ASDM] Gagal mengambil data.
+[2026-01-29 19:33:17,264] ERROR: Gagal download APIC.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/APIC.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257995&period2=1769689995
+[2026-01-29 19:33:17,266] INFO: [APIC] Gagal mengambil data.
+[2026-01-29 19:33:18,289] INFO: [ASRM] Selesai. +4 data baru.
+[2026-01-29 19:33:18,468] ERROR: Gagal download ASMI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ASMI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257997&period2=1769689997
+[2026-01-29 19:33:18,470] INFO: [ASMI] Gagal mengambil data.
+[2026-01-29 19:33:18,499] ERROR: Gagal download ASJT.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/ASJT.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257997&period2=1769689997
+[2026-01-29 19:33:18,501] INFO: [ASJT] Gagal mengambil data.
+[2026-01-29 19:33:19,090] ERROR: Gagal download BACA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BACA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257997&period2=1769689997
+[2026-01-29 19:33:19,091] INFO: [BACA] Gagal mengambil data.
+[2026-01-29 19:33:19,147] ERROR: Gagal download BABP.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BABP.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257997&period2=1769689997
+[2026-01-29 19:33:19,149] INFO: [BABP] Gagal mengambil data.
+[2026-01-29 19:33:19,788] ERROR: Gagal download BBKP.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBKP.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257998&period2=1769689998
+[2026-01-29 19:33:19,790] INFO: [BBKP] Gagal mengambil data.
+[2026-01-29 19:33:20,288] INFO: [BBCA] Selesai. +4 data baru.
+[2026-01-29 19:33:20,661] ERROR: Gagal download BBLD.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBLD.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257999&period2=1769689999
+[2026-01-29 19:33:20,663] INFO: [BBLD] Gagal mengambil data.
+[2026-01-29 19:33:21,075] INFO: [BBMD] Selesai. +4 data baru.
+[2026-01-29 19:33:21,476] ERROR: Gagal download BBNI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBNI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257999&period2=1769689999
+[2026-01-29 19:33:21,478] INFO: [BBNI] Gagal mengambil data.
+[2026-01-29 19:33:22,022] ERROR: Gagal download BBTN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBTN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258000&period2=1769690000
+[2026-01-29 19:33:22,024] INFO: [BBTN] Gagal mengambil data.
+[2026-01-29 19:33:22,035] INFO: [BBRI] Selesai. +0 data baru.
+[2026-01-29 19:33:22,431] ERROR: Gagal download BBHI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBHI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769257998&period2=1769689998
+[2026-01-29 19:33:22,433] INFO: [BBHI] Gagal mengambil data.
+[2026-01-29 19:33:23,185] ERROR: Gagal download BCAP.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BCAP.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258001&period2=1769690001
+[2026-01-29 19:33:23,186] INFO: [BCAP] Gagal mengambil data.
+[2026-01-29 19:33:23,197] INFO: [BBYB] Selesai. +4 data baru.
+[2026-01-29 19:33:23,586] INFO: [BDMN] Selesai. +4 data baru.
+[2026-01-29 19:33:23,879] ERROR: Gagal download BCIC.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BCIC.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258002&period2=1769690002
+[2026-01-29 19:33:23,880] INFO: [BCIC] Gagal mengambil data.
+[2026-01-29 19:33:24,328] INFO: [BEKS] Selesai. +0 data baru.
+[2026-01-29 19:33:24,580] ERROR: Gagal download BFIN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BFIN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258003&period2=1769690003
+[2026-01-29 19:33:24,581] INFO: [BFIN] Gagal mengambil data.
+[2026-01-29 19:33:24,602] ERROR: Gagal download BGTG.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BGTG.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258003&period2=1769690003
+[2026-01-29 19:33:24,604] INFO: [BGTG] Gagal mengambil data.
+[2026-01-29 19:33:25,510] ERROR: Gagal download BINA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BINA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258003&period2=1769690003
+[2026-01-29 19:33:25,512] INFO: [BINA] Gagal mengambil data.
+[2026-01-29 19:33:25,813] ERROR: Gagal download BJBR.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BJBR.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258003&period2=1769690003
+[2026-01-29 19:33:25,814] INFO: [BJBR] Gagal mengambil data.
+[2026-01-29 19:33:25,993] INFO: [BKSW] Selesai. +0 data baru.
+[2026-01-29 19:33:26,187] INFO: [BJTM] Selesai. +0 data baru.
+[2026-01-29 19:33:26,547] INFO: [BMRI] Selesai. +4 data baru.
+[2026-01-29 19:33:26,924] ERROR: Gagal download BMAS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BMAS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258004&period2=1769690004
+[2026-01-29 19:33:26,925] INFO: [BMAS] Gagal mengambil data.
+[2026-01-29 19:33:27,208] INFO: [BNGA] Selesai. +4 data baru.
+[2026-01-29 19:33:27,545] ERROR: Gagal download BNBA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BNBA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258005&period2=1769690005
+[2026-01-29 19:33:27,546] INFO: [BNBA] Gagal mengambil data.
+[2026-01-29 19:33:27,859] INFO: [BNLI] Selesai. +4 data baru.
+[2026-01-29 19:33:28,001] ERROR: Gagal download BNII.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BNII.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258006&period2=1769690006
+[2026-01-29 19:33:28,003] INFO: [BNII] Gagal mengambil data.
+[2026-01-29 19:33:28,734] ERROR: Gagal download BPFI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BPFI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258006&period2=1769690006
+[2026-01-29 19:33:28,735] INFO: [BPFI] Gagal mengambil data.
+[2026-01-29 19:33:28,931] ERROR: Gagal download BPII.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BPII.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258007&period2=1769690007
+[2026-01-29 19:33:28,933] INFO: [BPII] Gagal mengambil data.
+[2026-01-29 19:33:29,211] INFO: [BSIM] Selesai. +4 data baru.
+[2026-01-29 19:33:29,578] ERROR: Gagal download BTPN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BTPN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258008&period2=1769690008
+[2026-01-29 19:33:29,579] INFO: [BTPN] Gagal mengambil data.
+[2026-01-29 19:33:29,661] ERROR: Gagal download BSWD.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BSWD.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258007&period2=1769690007
+[2026-01-29 19:33:29,662] INFO: [BSWD] Gagal mengambil data.
+[2026-01-29 19:33:30,028] INFO: [CFIN] Selesai. +0 data baru.
+[2026-01-29 19:33:30,186] INFO: [BVIC] Selesai. +4 data baru.
+[2026-01-29 19:33:31,155] ERROR: Gagal download DNAR.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/DNAR.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258009&period2=1769690009
+[2026-01-29 19:33:31,157] INFO: [DNAR] Gagal mengambil data.
+[2026-01-29 19:33:31,216] ERROR: Gagal download DEFI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/DEFI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258009&period2=1769690009
+[2026-01-29 19:33:31,219] INFO: [DEFI] Gagal mengambil data.
+[2026-01-29 19:33:31,419] INFO: [DNET] Selesai. +0 data baru.
+[2026-01-29 19:33:31,651] ERROR: Gagal download GSMF.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/GSMF.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258010&period2=1769690010
+[2026-01-29 19:33:31,653] INFO: [GSMF] Gagal mengambil data.
+[2026-01-29 19:33:32,163] ERROR: Gagal download HDFA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/HDFA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258010&period2=1769690010
+[2026-01-29 19:33:32,164] INFO: [HDFA] Gagal mengambil data.
+[2026-01-29 19:33:32,955] ERROR: Gagal download MAYA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MAYA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258011&period2=1769690011
+[2026-01-29 19:33:32,957] INFO: [MAYA] Gagal mengambil data.
+[2026-01-29 19:33:32,985] INFO: [LPGI] Selesai. +4 data baru.
+[2026-01-29 19:33:33,382] ERROR: Gagal download MCOR.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MCOR.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258012&period2=1769690012
+[2026-01-29 19:33:33,384] INFO: [MCOR] Gagal mengambil data.
+[2026-01-29 19:33:33,392] ERROR: Gagal download LPPS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/LPPS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258011&period2=1769690011
+[2026-01-29 19:33:33,396] INFO: [LPPS] Gagal mengambil data.
+[2026-01-29 19:33:34,087] INFO: [MEGA] Selesai. +4 data baru.
+[2026-01-29 19:33:34,504] INFO: [INPC] Selesai. +4 data baru.
+[2026-01-29 19:33:34,586] ERROR: Gagal download MFIN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MFIN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258012&period2=1769690012
+[2026-01-29 19:33:34,588] INFO: [MFIN] Gagal mengambil data.
+[2026-01-29 19:33:35,004] INFO: [NISP] Selesai. +4 data baru.
+[2026-01-29 19:33:35,153] ERROR: Gagal download NOBU.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/NOBU.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258014&period2=1769690014
+[2026-01-29 19:33:35,154] INFO: [NOBU] Gagal mengambil data.
+[2026-01-29 19:33:35,297] ERROR: Gagal download MREI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/MREI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258013&period2=1769690013
+[2026-01-29 19:33:35,299] INFO: [MREI] Gagal mengambil data.
+[2026-01-29 19:33:35,656] INFO: [PADI] Selesai. +4 data baru.
+[2026-01-29 19:33:36,026] INFO: [OCAP] Selesai. +0 data baru.
+[2026-01-29 19:33:36,341] ERROR: Gagal download PALM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PALM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258015&period2=1769690015
+[2026-01-29 19:33:36,343] INFO: [PALM] Gagal mengambil data.
+[2026-01-29 19:33:36,440] INFO: [PANS] Selesai. +0 data baru.
+[2026-01-29 19:33:37,164] ERROR: Gagal download PEGE.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PEGE.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258015&period2=1769690015
+[2026-01-29 19:33:37,165] INFO: [PEGE] Gagal mengambil data.
+[2026-01-29 19:33:37,521] ERROR: Gagal download PLAS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PLAS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258015&period2=1769690015
+[2026-01-29 19:33:37,522] INFO: [PLAS] Gagal mengambil data.
+[2026-01-29 19:33:37,828] ERROR: Gagal download PNBN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PNBN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258016&period2=1769690016
+[2026-01-29 19:33:37,829] INFO: [PNBN] Gagal mengambil data.
+[2026-01-29 19:33:37,881] ERROR: Gagal download PNBS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PNBS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258016&period2=1769690016
+[2026-01-29 19:33:37,882] INFO: [PNBS] Gagal mengambil data.
+[2026-01-29 19:33:38,208] ERROR: Gagal download PNIN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PNIN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258016&period2=1769690016
+[2026-01-29 19:33:38,210] INFO: [PNIN] Gagal mengambil data.
+[2026-01-29 19:33:38,739] INFO: [POOL] Selesai. +3 data baru.
+[2026-01-29 19:33:38,779] ERROR: Gagal download PNLF.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/PNLF.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258017&period2=1769690017
+[2026-01-29 19:33:38,780] INFO: [PNLF] Gagal mengambil data.
+[2026-01-29 19:33:39,052] ERROR: Gagal download SDRA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/SDRA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258017&period2=1769690017
+[2026-01-29 19:33:39,053] INFO: [SDRA] Gagal mengambil data.
+[2026-01-29 19:33:39,272] ERROR: Gagal download RELI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/RELI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258017&period2=1769690017
+[2026-01-29 19:33:39,274] INFO: [RELI] Gagal mengambil data.
+[2026-01-29 19:33:39,671] ERROR: Gagal download SMMA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/SMMA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258018&period2=1769690018
+[2026-01-29 19:33:39,672] INFO: [SMMA] Gagal mengambil data.
+[2026-01-29 19:33:40,012] ERROR: Gagal download STAR.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/STAR.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258018&period2=1769690018
+[2026-01-29 19:33:40,014] INFO: [STAR] Gagal mengambil data.
+[2026-01-29 19:33:40,243] ERROR: Gagal download SRTG.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/SRTG.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258018&period2=1769690018
+[2026-01-29 19:33:40,245] INFO: [SRTG] Gagal mengambil data.
+[2026-01-29 19:33:41,264] ERROR: Gagal download TRUS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/TRUS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258019&period2=1769690019
+[2026-01-29 19:33:41,266] INFO: [TRUS] Gagal mengambil data.
+[2026-01-29 19:33:41,266] ERROR: Gagal download TIFA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/TIFA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258019&period2=1769690019
+[2026-01-29 19:33:41,267] INFO: [TIFA] Gagal mengambil data.
+[2026-01-29 19:33:41,268] ERROR: Gagal download TRIM.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/TRIM.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258019&period2=1769690019
+[2026-01-29 19:33:41,270] INFO: [TRIM] Gagal mengambil data.
+[2026-01-29 19:33:41,323] INFO: [VINS] Selesai. +4 data baru.
+[2026-01-29 19:33:41,644] ERROR: Gagal download VICO.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/VICO.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258020&period2=1769690020
+[2026-01-29 19:33:41,646] INFO: [VICO] Gagal mengambil data.
+[2026-01-29 19:33:42,360] ERROR: Gagal download YULE.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/YULE.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258021&period2=1769690021
+[2026-01-29 19:33:42,361] INFO: [YULE] Gagal mengambil data.
+[2026-01-29 19:33:42,732] INFO: [BRIS] Selesai. +4 data baru.
+[2026-01-29 19:33:42,866] INFO: [WOMF] Selesai. +4 data baru.
+[2026-01-29 19:33:43,119] ERROR: Gagal download CASA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/CASA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258021&period2=1769690021
+[2026-01-29 19:33:43,121] INFO: [CASA] Gagal mengambil data.
+[2026-01-29 19:33:43,208] INFO: [VRNA] Selesai. +4 data baru.
+[2026-01-29 19:33:43,759] INFO: [MTWI] Selesai. +0 data baru.
+[2026-01-29 19:33:44,178] ERROR: Gagal download BTPS.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BTPS.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258023&period2=1769690023
+[2026-01-29 19:33:44,180] INFO: [BTPS] Gagal mengambil data.
+[2026-01-29 19:33:44,737] ERROR: Gagal download NICK.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/NICK.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258022&period2=1769690022
+[2026-01-29 19:33:44,738] INFO: [NICK] Gagal mengambil data.
+[2026-01-29 19:33:44,739] INFO: [JMAS] Selesai. +4 data baru.
+[2026-01-29 19:33:44,992] ERROR: Gagal download TUGU.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/TUGU.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258023&period2=1769690023
+[2026-01-29 19:33:44,994] INFO: [TUGU] Gagal mengambil data.
+[2026-01-29 19:33:45,519] INFO: [SFAN] Selesai. +0 data baru.
+[2026-01-29 19:33:45,654] ERROR: Gagal download POLA.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/POLA.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258023&period2=1769690023
+[2026-01-29 19:33:45,656] INFO: [POLA] Gagal mengambil data.
+[2026-01-29 19:33:46,150] INFO: [AMAR] Selesai. +4 data baru.
+[2026-01-29 19:33:46,371] ERROR: Gagal download LIFE.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/LIFE.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258024&period2=1769690024
+[2026-01-29 19:33:46,373] INFO: [LIFE] Gagal mengambil data.
+[2026-01-29 19:33:46,383] ERROR: Gagal download FUJI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/FUJI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258024&period2=1769690024
+[2026-01-29 19:33:46,385] INFO: [FUJI] Gagal mengambil data.
+[2026-01-29 19:33:46,606] ERROR: Gagal download AMOR.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/AMOR.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258025&period2=1769690025
+[2026-01-29 19:33:46,608] INFO: [AMOR] Gagal mengambil data.
+[2026-01-29 19:33:47,233] ERROR: Gagal download BBSI.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BBSI.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258026&period2=1769690026
+[2026-01-29 19:33:47,234] INFO: [BBSI] Gagal mengambil data.
+[2026-01-29 19:33:47,663] INFO: [BHAT] Selesai. +4 data baru.
+[2026-01-29 19:33:48,153] ERROR: Gagal download BANK.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/BANK.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258026&period2=1769690026
+[2026-01-29 19:33:48,154] INFO: [BANK] Gagal mengambil data.
+[2026-01-29 19:33:48,164] INFO: [VTNY] Selesai. +4 data baru.
+[2026-01-29 19:33:48,845] INFO: [YOII] Selesai. +4 data baru.
+[2026-01-29 19:33:49,044] ERROR: Gagal download COIN.JK: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/COIN.JK?interval=1d&events=history&includeAdjustedClose=true&period1=1769258027&period2=1769690027
+[2026-01-29 19:33:49,045] INFO: [COIN] Gagal mengambil data.
+[2026-01-29 19:33:49,281] INFO: [MASB] Selesai. +4 data baru.
