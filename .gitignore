@@ -4,7 +4,8 @@ __pycache__/
 
 # Log files
 *.log
-errors.log
+!scraper_activity.log
+!compiler_activity.log
 
 # System files
 .DS_Store
